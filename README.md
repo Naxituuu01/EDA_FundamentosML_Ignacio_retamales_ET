@@ -1,0 +1,2 @@
+# EDA_FundamentosML_Ignacio_retamales_ET
+repositorio para examen transversal Fundamentos ML
